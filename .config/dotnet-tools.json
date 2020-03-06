@@ -2,7 +2,7 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "dotnet-ef": {
+    "sdk": {
       "version": "3.1.2",
       "commands": [
         "dotnet-ef"
